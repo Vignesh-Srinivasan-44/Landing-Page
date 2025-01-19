@@ -1,4 +1,4 @@
-# Landing Page Project
+# Landing Page Project | Spartan Furniture's
 
 This project is part of **The Odin Project** curriculum, designed to help you practice and solidify your frontend development skills by building a responsive landing page. The goal is to create a visually appealing, user-friendly, and mobile-first web page that showcases your ability to work with HTML, CSS, and basic JavaScript.
 
